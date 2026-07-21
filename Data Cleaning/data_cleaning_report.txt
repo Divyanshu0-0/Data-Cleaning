@@ -1,0 +1,38 @@
+DATA CLEANING REPORT
+==================================================
+Generated: 2026-07-21 06:36:07
+
+Rows before cleaning : 16
+Rows after cleaning  : 15
+Duplicate rows removed: 1
+Rows removed (missing key fields): 0
+
+Missing values BEFORE cleaning (per column):
+order_id         0
+customer_name    1
+product          1
+sale_date        0
+amount           2
+region           0
+qty              1
+
+Missing values AFTER cleaning (per column):
+order_id         0
+customer_name    0
+product          1
+sale_date        1
+amount           2
+region           0
+qty              2
+
+==================================================
+Cleaning steps applied:
+- Standardized column names
+- Stripped whitespace, normalized blank/N-A markers to NaN
+- Removed exact duplicate rows
+- Cleaned currency fields (removed $/₹/commas, converted to numeric)
+- Parsed inconsistent date formats to YYYY-MM-DD
+- Title-cased category fields (region, product) for consistency
+- Nulled out impossible numeric values (e.g. negative quantities)
+- Dropped rows missing critical key fields (e.g. order_id)
+- Filled missing values with sensible defaults where configured

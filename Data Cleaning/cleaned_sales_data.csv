@@ -1,0 +1,16 @@
+order_id,customer_name,product,sale_date,amount,region,qty
+1001,Rahul Sharma,Laptop,2024-01-05,1200.0,North,2.0
+1002,priya patel,Mouse,2024-01-05,450.0,South,5.0
+1003,Amit Kumar,Keyboard,2024-01-07,800.0,East,3.0
+1004,Unknown,Monitor,2024-01-08,15000.0,West,1.0
+1005,Sneha Reddy,Laptop,2024-01-08,,North,1.0
+1006,Vikram Singh,Mouse,2024-01-09,500.0,South,4.0
+1007,Anita Desai,Keyboard,2024-01-10,750.5,East,2.0
+1008,Rahul Sharma,Monitor,2024-01-11,14500.0,North,1.0
+1009,Kiran Rao,Laptop,2024-01-12,,West,
+1010,Deepak Joshi,Mouse,2024-01-13,480.0,South,6.0
+1011,priya patel,Keyboard,2024-01-14,820.0,South,2.0
+1012,Meera Nair,,2024-01-15,1000.0,East,3.0
+1013,Suresh Iyer,Monitor,2024-01-16,14800.0,West,1.0
+1014,Rahul Sharma,Laptop,2024-01-17,1250.0,North,2.0
+9999,test test,Test,,-500.0,Unknown,

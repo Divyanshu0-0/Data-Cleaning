@@ -1,0 +1,17 @@
+Order ID,Customer Name , Product,Sale Date,  Amount ,Region,Qty
+1001,Rahul Sharma,Laptop,2024-01-05,"$1,200.00",North,2
+1002,priya patel,Mouse,05/01/2024,450,south,5
+1003,Amit Kumar,Keyboard,2024-01-07,"$800",East,3
+1001,Rahul Sharma,Laptop,2024-01-05,"$1,200.00",North,2
+1004,,Monitor,2024-01-08,15000,West,1
+1005,Sneha Reddy ,Laptop,08-01-2024,,North,1
+1006,Vikram Singh,mouse,2024-01-09,500,South ,4
+1007,Anita Desai,Keyboard,2024-01-10,750.5,east,2
+1008,Rahul Sharma,Monitor,2024/01/11,"₹14,500",north,1
+1009,Kiran Rao,Laptop,2024-01-12,N/A,West,
+1010,Deepak Joshi,Mouse,13-01-2024,480,South,6
+1011,priya patel,Keyboard,2024-01-14,820,south,2
+1012,Meera Nair,,2024-01-15,1000,East,3
+1013,Suresh Iyer,Monitor,2024-01-16,"$14,800.00",West,1
+1014,Rahul Sharma,Laptop,2024-01-17,1250,North,2
+9999,test test,test,2099-13-45,-500,unknown,-1
